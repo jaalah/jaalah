@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Jaalah (Jay-luh), and I currently work in Compute on the Cloud Manager team. Frontend is my passion, especially when it comes to Design Systems. I'm all about improving Developer Experience (DX) and making products accessible to everyone. For me, it's not just about writing code; it's about creating meaningful experiences through design and functionality.
+
+Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/jaalah/)!
 
 <!--
 **jaalah/jaalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
